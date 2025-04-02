@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AC1</string>
+    <string name="fill_all_fields">Preencha todos os campos.</string>
+    <string name="delete_hint">Pressionar e segurar permite excluir um livro.</string>
+
+    <string-array name="book_categories">
+        <item>Ficção</item>
+        <item>Não Ficção</item>
+        <item>Romance</item>
+        <item>Suspense</item>
+        <item>Tecnologia</item>
+    </string-array>
+</resources>
